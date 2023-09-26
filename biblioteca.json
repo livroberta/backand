@@ -1,0 +1,141 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 3
+    },
+    {
+      "id": 1,
+      "titulo": "Fahrenheit 451",
+      "autor": "Aldous Huxley",
+      "anoPublicacao": 1900,
+      "isbn": "978-85-359-0000-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": " Blink: a decisão num piscar de olhos",
+      "autor": "Malcolm Gladwell",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0002-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História da Humanidade",
+      "autor": "Yuval Noah Harari",
+      "anoPublicacao": 2020,
+      "isbn": "978-85-359-0003-0",
+      "disponivel": false,
+      "categoriaId": 3
+    },
+    {
+      "id": 1,
+      "titulo": "Admirável mundo novo",
+      "autor": "Aldous Huxley",
+      "anoPublicacao": 2000,
+      "isbn": "978-85-359-0001-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Falso Espelho: reflexões sobre a autoilusão",
+      "autor": "Jia Tolentino",
+      "anoPublicacao": 2000,
+      "isbn": "978-85-359-0999-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "A Arte da Guerra",
+      "autor": "Sun Tzu",
+      "anoPublicacao": 2015,
+      "isbn": "978-85-359-0004-0",
+      "disponivel": false,
+      "categoriaId": 3
+    },
+    [
+      {
+        "id": 1,
+        "titulo": "Frankenstein",
+        "autor": "Mary Shelley",
+        "anoPublicacao": 1818,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      }
+    ],
+    [
+      {
+        "id": 2,
+        "titulo": "Hábitos Atômicos",
+        "autor": "James Clear",
+        "anoPublicacao": 2005,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 2
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "titulo": " O Diário de Anne Frank",
+        "autor": "Anne Frank",
+        "anoPublicacao": 2006,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 3
+      }
+    ]
+  ]
+}
